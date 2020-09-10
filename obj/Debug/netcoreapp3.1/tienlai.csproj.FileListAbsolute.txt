@@ -1,0 +1,13 @@
+C:\LN\tienlai\bin\Debug\netcoreapp3.1\tienlai.exe
+C:\LN\tienlai\bin\Debug\netcoreapp3.1\tienlai.deps.json
+C:\LN\tienlai\bin\Debug\netcoreapp3.1\tienlai.runtimeconfig.json
+C:\LN\tienlai\bin\Debug\netcoreapp3.1\tienlai.runtimeconfig.dev.json
+C:\LN\tienlai\bin\Debug\netcoreapp3.1\tienlai.dll
+C:\LN\tienlai\bin\Debug\netcoreapp3.1\tienlai.pdb
+C:\LN\tienlai\obj\Debug\netcoreapp3.1\tienlai.csprojAssemblyReference.cache
+C:\LN\tienlai\obj\Debug\netcoreapp3.1\tienlai.AssemblyInfoInputs.cache
+C:\LN\tienlai\obj\Debug\netcoreapp3.1\tienlai.AssemblyInfo.cs
+C:\LN\tienlai\obj\Debug\netcoreapp3.1\tienlai.csproj.CoreCompileInputs.cache
+C:\LN\tienlai\obj\Debug\netcoreapp3.1\tienlai.dll
+C:\LN\tienlai\obj\Debug\netcoreapp3.1\tienlai.pdb
+C:\LN\tienlai\obj\Debug\netcoreapp3.1\tienlai.genruntimeconfig.cache
